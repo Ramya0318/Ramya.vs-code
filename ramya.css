@@ -1,0 +1,66 @@
+h1{
+    border:2px solid black;
+    padding: 10px;
+    margin:4px;
+    background-color:rgb(180, 134, 64);
+}
+#operator1{
+    width: 300px;
+    background-color: aqua;
+   
+}
+#row1{
+    padding:10px;
+    text-align: center;
+    
+}
+#row2{
+    padding:4px;
+   text-align: center;
+}
+#row3{
+    padding:4px;
+    text-align: center;
+    
+}
+#row4{
+    padding:4px;
+   text-align: center;
+}
+#row5{
+    padding:4px;
+   text-align: center;
+}
+
+button{
+    width:70px;
+    height: 40px;
+    background-color: rgb(53, 117, 96);
+}
+#operator5{
+    background-color: rgb(172, 81, 96);
+}
+#operator9{
+    background-color: rgb(172, 81, 96);
+}
+#operator13{
+    background-color: rgb(172, 81, 96);
+}
+#operator15{
+    background-color: rgb(172, 81, 96);
+}
+#operator16{
+    background-color: rgb(172, 81, 96);
+}
+#operator17{
+    background-color: rgb(172, 81, 96);
+}
+#operator14{
+    background-color: rgb(66, 6, 85);
+}
+
+fieldset{
+    background-color: rgb(160, 124, 194);
+    width:20px;
+    position: absolute;
+   left: 500px;}
